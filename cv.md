@@ -15,3 +15,21 @@ I am completing my university studies next year and am passionate about pursuing
 - CSS
 - JavaScript Core
 - Git
+
+## __Code Example__
+```
+function moveZeros(arr) {
+  return arr.filter(item=>item!==0).concat(arr.filter(item=>item===0));
+}
+```
+
+## __Education__ 
+- __University:__ Belarusian State University of Informatics and Radioelectronics, Systems engineer
+- __Courses:__
+  - HTML/CSS on [Stepik](https://stepik.org/course/38218/syllabus) (completed)
+  - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+  - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages
+* **Russian** - native speaker.
+* **English** - B1.
